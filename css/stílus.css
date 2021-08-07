@@ -2,3 +2,45 @@ body{
     font-family: 'Dosis', sans-serif;
     font-weight: 400;
 }
+
+header{
+    width: 100%;
+    background-color: #fadad5;
+    height: 100px;
+}
+
+.container{
+    width: 1200px;
+    padding: 0;
+    margin: auto;
+}
+
+#balfej{
+    color: #70133e;
+    font-size: 45pt;
+    float: left;
+    padding: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-weight: 500;
+}
+
+#balfej img{
+    width: 100px;
+}
+
+#jobbfej{
+    font-size: 33px;
+    float: right;
+    padding: 0;
+    margin-top: 25px;
+    font-weight: 400;
+}
+
+#jobbfej a{
+    color: #70133e;
+}
+
+#jobbfej a:hover{
+    color: #aa6786;
+}
