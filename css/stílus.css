@@ -71,16 +71,17 @@ footer{
     font-size: 11pt;
 }
 #láb{
-    height: 70px;
+    height: 100px;
+    padding-top: 15px;
 }
 #balláb{
     text-align: center;
-    margin-left: 200px;
+    margin-left: 400px;
     float:left;
 }
 
 #jobbláb{
     text-align: center;
-    margin-right: 200px;
+    margin-right: 400px;
     float: right;
 }
