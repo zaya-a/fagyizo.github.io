@@ -7,6 +7,7 @@ header{
     width: 100%;
     background-color: #fadad5;
     height: 100px;
+    border-bottom: #70133e 2px solid;
 }
 
 .container{
@@ -43,4 +44,25 @@ header{
 
 #jobbfej a:hover{
     color: #aa6786;
+}
+
+#nagykep{
+    background-image: url(../images/fagyi.jpg);
+    height: 295px;
+    border-bottom: #70133e 2px solid;
+}
+
+#doboz{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 40pt;
+    font-weight: 400;
+    border: white 2px solid;
+    width: 750px;
+    height: 120px;
+}
+
+#doboz p{
+    text-align: center;
 }
