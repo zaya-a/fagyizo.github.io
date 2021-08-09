@@ -64,3 +64,20 @@ header{
     height: 120px;
 }
 
+footer{
+    width: 100%;
+    background-color: #fadad5;
+    color: #70133e;
+    font-weight: 400;
+    font-size: 11pt;
+}
+
+#balláb{
+    text-align: center;
+    margin-left: 30%;
+}
+
+#jobbláb{
+    text-align: center;
+    margin-right: 30%;
+}
