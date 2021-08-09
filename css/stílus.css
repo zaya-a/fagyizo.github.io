@@ -68,16 +68,19 @@ footer{
     width: 100%;
     background-color: #fadad5;
     color: #70133e;
-    font-weight: 400;
     font-size: 11pt;
 }
-
+#láb{
+    height: 70px;
+}
 #balláb{
     text-align: center;
-    margin-left: 45%;
+    margin-left: 200px;
+    float:left;
 }
 
 #jobbláb{
     text-align: center;
-    margin-right: 45%;
+    margin-right: 200px;
+    float: right;
 }
