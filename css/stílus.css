@@ -38,6 +38,7 @@ header{
 
 #jobbfej a{
     color: #70133e;
+    margin: 0 5px;
 }
 
 #jobbfej a:hover{
@@ -62,6 +63,60 @@ header{
     border: white 2px solid;
     width: 750px;
     height: 120px;
+}
+
+#bemutatkozas{
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #f3efef;
+    color: #70133e;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 15px;
+    min-height: 250px;
+}
+  
+#bemutatkozas p{
+    font-family: 'Cormorant Garamond', serif;
+    color: #70133e;
+    font-weight: 700;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 35px;
+}
+
+#bemutatkozas img{
+    margin: 0 40px;
+
+}
+
+#velemeny{
+    font-weight: 600;
+    font-size:40px;
+    text-align: center;
+    color: #70133e;
+    margin: 20px;
+}
+
+#velemenyek{
+    color: #70133e;
+}
+  
+#velemeny1, #velemeny2{
+    width: 540px;
+    color: #70133e;
+}
+#velemenyek img{
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+  
+#velemenyek p{
+    margin-top: 25px;
+}
+  
+#velemenyek p span{
+    font-size: 22px;
 }
 
 #cta{
