@@ -64,24 +64,63 @@ header{
     height: 120px;
 }
 
+#cta{
+    background-color: #70133e;
+    text-align: center;
+    color: #fadad5;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    height: 100px;
+    font-weight: 500;
+}
+
+#cta .felhivas{
+    float: left;
+    font-size: 35pt;
+    margin-left: 50px;
+    margin-top: 12px;
+}
+
+#cta .gomb{
+    float: right;
+    font-size: 35pt;
+    margin-right: 50px;
+    margin-top: 12px;
+}
+
+#cta .gomb a{
+    background-color: #fadad5;
+    color: #70133e;
+    text-decoration: none;
+    padding: 5px 7px 7px 7px;
+    border-radius: 10px;
+}
+
+#cta .gomb a:hover{
+    background-color: #ffffff;
+    color: #70133e;
+  }
+
 footer{
     width: 100%;
     background-color: #fadad5;
     color: #70133e;
     font-size: 11pt;
 }
+
 #láb{
     height: 100px;
     padding-top: 15px;
 }
+
 #balláb{
     text-align: center;
-    margin-left: 400px;
+    margin-left: 500px;
     float:left;
 }
 
 #jobbláb{
     text-align: center;
-    margin-right: 400px;
+    margin-right: 500px;
     float: right;
 }
