@@ -163,11 +163,12 @@ footer{
     background-color: #fadad5;
     color: #70133e;
     font-size: 10pt;
+    height: 80px;
 }
 
 #láb{
-    height: 100px;
-    padding-top: 20px;
+    height: 80px;
+    padding-top: 10px;
 }
 
 #balláb{
@@ -180,4 +181,33 @@ footer{
     text-align: center;
     margin-right: 500px;
     float: right;
+}
+
+h1{
+    font-size: 30pt;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #70133e;
+}
+
+h3{
+    font-size: 25pt;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #70133e;
+}
+
+.kapcsolat{
+    color: #70133e;
+    font-weight: 400;
+    font-size: 14pt;
+}
+
+#terkep{
+    height: 600px;
+    width: 1200px;
+    margin-bottom: 20px;
+    border: #70133e solid 2px;
 }
